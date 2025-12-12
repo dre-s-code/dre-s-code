@@ -1,9 +1,13 @@
-<div align="center">
-  # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=dre-s-code&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=dre-s-code&theme=calm&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dre-s-code&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<div align="center">
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dre-s-code&amp;theme=calm&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dre-s-code&amp;theme=calm&amp;hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dre-s-code&amp;theme=calm&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" />
+</p>
+
   
 # 💫 About Me:
 Fresh graduate in Atmospheric & Planetary Sciences (ITERA) interested in air quality, meteorology, and numerical modelling. My work sits around emission inventories, GIS, and models like WRF/WRF-Chem and AERMOD—turning complex environmental data into maps, stats, and reports for decision-making.<br><br>Lately, I’ve been diving into website development to make my projects more accessible and public-friendly. I’m actively learning and exploring Laravel, React, MongoDB, and modern web stacks, and I enjoy building clean, minimal web pages that explain technical work clearly.<br><br>Open to opportunities in air quality, environmental/GIS data analysis, numerical modelling—and also roles/projects where I can grow as a web developer.
