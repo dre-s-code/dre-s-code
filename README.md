@@ -41,7 +41,5 @@ Fresh graduate in Atmospheric & Planetary Sciences (ITERA) interested in air qua
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="20%" />
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=dre-s-code&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
